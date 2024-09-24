@@ -1,0 +1,18 @@
+#big {
+    font-size: xx-large;
+    font-weight: 800;
+}
+
+.bold {
+    font-size: medium;
+    font-weight: 800;
+}
+
+btn {
+    font-size: 600;
+}
+
+#on {
+    color: white;
+    background-color: green;
+}

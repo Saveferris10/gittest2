@@ -1,0 +1,20 @@
+.child {
+    font-weight: 700;
+}
+
+.on {
+    background-color: green;
+    color: white;
+    font-weight: 700;
+
+
+}
+.on,.off {
+
+    padding: 10;
+    border: 10;
+}
+p {
+    font-size: large;
+    font-weight: 800;
+}
